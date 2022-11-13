@@ -1,6 +1,6 @@
 # SIG-Teori-Modul6-Basic-RasterStylingandAnalysis-
 
-##data
+## Data
 
 Silahkan download data berikut :
 
